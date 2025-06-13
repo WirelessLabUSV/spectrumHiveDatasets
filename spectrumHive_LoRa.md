@@ -4,9 +4,8 @@ Link for download : https://1drv.ms/u/c/fdd6e836b8b400f4/EVYDTx2pLSRCgEzulH_5Sk0
 
 If you use this dataset please cite:
 
-1. P. M. Mutescu, A. Lavric, A. I. Petrariu, and V. Popa, “Deep Learning Enhanced Spectrum Sensing for LoRa Spreading Factor Detection,” 2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE), pp. 1–5, Mar. 2023, doi: 10.1109/ATEE58038.2023.10108224.
-
-2. P. M. Mutescu, A. Lavric, A. I. Petrariu, and V. Popa, “A Hybrid Deep Learning Spectrum Sensing Architecture for IoT Technologies Classification,” 2023 17th International Conference on Engineering of Modern Electric Systems, EMES 2023, 2023, doi: 10.1109/EMES58375.2023.10171667.
+1. Mutescu, P. M., Popa, V., & Lavric, A. (2025). LoRa Communications Spectrum Sensing Based on Artificial Intelligence: IoT Sensing. Sensors (Basel, Switzerland), 25(9), 2748. https://doi.org/10.3390/s25092748
+2. P. -M. Mutescu, A. Lavric, A. -I. Petrariu, A. -M. Cailean and V. Popa, "Radio Spectrum Sensing Framework for Large-Scale, High-Density IoT Sensor Networks," in IEEE Access, vol. 13, pp. 64594-64609, 2025, doi: 10.1109/ACCESS.2025.3558746.
    
 This dataset comprises 156,000 radio signal frames using the CSS LoRa modulation with spreading factors from 7 to 12, with 26,000 signal frames for each LoRa SF.
 
